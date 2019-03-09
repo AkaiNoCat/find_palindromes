@@ -1,4 +1,4 @@
-#motto:Fun&Enjoy
+# motto:Fun&Enjoy
 author:AKai
 date:2019-03-09 20:53:19
 project:输出字符串中所有回文字
