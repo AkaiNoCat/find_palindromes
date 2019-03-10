@@ -8,6 +8,6 @@
 		心心念念了很久终于把它给收服.
 ```python
 def aline_find_Palindrome(a):
-    return { a[i:i+n]:n for n in range(2,len(a)+1) for i in range(len(a)-n+1) if a[i:i+n] == a[i:i+n][::-1]}	
+    return { string[i:i+n]:n for n in range(2,len(string)+1) for i in range(len(string)-n+1) if string[i:i+n] == string[i:i+n][::-1]}
 ```
 
